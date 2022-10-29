@@ -1,5 +1,14 @@
 # Dominando_CSS_GRID
 
+<img src="https://user-images.githubusercontent.com/99132374/198835680-62491374-e293-4dc1-a35e-9d7dfa2f4331.png">
+
+## index.html
+
+<img src="https://user-images.githubusercontent.com/99132374/198835427-edc67c4b-66c1-409a-aabb-370eb5f130d4.png">
+
+## style.css
+
+<img src="https://user-images.githubusercontent.com/99132374/198835171-51689b5d-afed-44fa-85e6-24566b4848f8.png"></img>
 
 ## GRID
 
